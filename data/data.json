@@ -1,0 +1,16 @@
+{
+    "loginId":[
+        {
+            "username":"zhangsan",
+            "password":"123456"
+        },
+        {
+            "username":"lisi",
+            "password":"234567"
+        },
+        {
+            "username":"wangwu",
+            "password":"345678"
+        }
+    ]
+}
